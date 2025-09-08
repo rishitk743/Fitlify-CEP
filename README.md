@@ -1,4 +1,4 @@
-// ...existing code...
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -16,20 +16,9 @@ If you are developing a production application, we recommend using TypeScript wi
 
 Add details about your assignment below. Replace the placeholders with actual information.
 
-- Title: [Replace with assignment title]
-- Course / Instructor: [Replace with course or instructor name]
-- Due date: [Replace with due date]
-- Description:
-  - [Brief description of the task or requirements]
-- Deliverables:
-  - [List of files, features, or documentation to submit]
-- Progress / Notes:
-  - [Current progress, blockers, and next steps]
-
-Example:
 - Title: Fitlify UI Enhancement Assignment
-- Course / Instructor: Frontend Lab / Prof. X
-- Due date: 2025-09-15
+- Course / Instructor: Prof. Anil Bhadgale
+- Due date: 2025-09-08
 - Description:
   - Implement a user dashboard and community feed with posting and stories.
 - Deliverables:
@@ -37,5 +26,3 @@ Example:
   - README.md (assignment details and setup)
 - Progress / Notes:
   - Basic UI implemented. Need to add persistence (localStorage) and unit tests.
-
-Replace the example with your actual assignment
